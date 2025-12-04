@@ -53,7 +53,7 @@ If you use this code in a scientific publication, please cite us as:
 @article{kiessner2025MultiBKNet, 
   title = {Multi-BK-Net: Multi-Branch Multi-Kernel Convolutional Neural Networks for Clinical EEG Analysis},
   journal = {Transactions on Machine Learning Research},
-  url = {https://www.sciencedirect.com/science/article/pii/S2213158223001730](https://openreview.net/forum?id=IsG10xZAaA},
+  url = {https://openreview.net/forum?id=IsG10xZAaA},
   author = {Ann-Kathrin Kiessner and Joschka Boedecker and Tonio Ball},
 }
 
