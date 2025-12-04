@@ -1,0 +1,2 @@
+,input_window_samples,n_filters_conv,norm_conv,nonlin_conv,pool_conv,pool_block_conv ,fourth_block,fourth_block_broader,drop_prob,filter_length,pool_value,patho_factor_weighted_loss,optimizer,beta1,lr,weight_decay,batch_size,n_epochs,model_size
+0,6000,35,group,gelu,mean,mean,True,True,0.5029593396661691,20,default,1,AdamW,0.5,0.0031414364096615,1.8397405899531204e-05,64,42,1038683
