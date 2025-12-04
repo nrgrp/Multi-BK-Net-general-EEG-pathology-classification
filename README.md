@@ -1,5 +1,5 @@
 # Multi-BK-Net-general-EEG-pathology-classification
-Code accompanies the paper [Multi-BK-Net: Multi-Branch Multi-Kernel Convolutional Neural Networks for Clinical EEG Analysis]([https://haozhu10015.github.io/papers/miiql.html](https://openreview.net/forum?id=IsG10xZAaA).
+Code accompanies the paper [Multi-BK-Net: Multi-Branch Multi-Kernel Convolutional Neural Networks for Clinical EEG Analysis](https://openreview.net/forum?id=IsG10xZAaA).
 
 
 
